@@ -14,4 +14,5 @@ export default defineConfig({
     }),
     pages(),
   ],
+  base: "/vite-mdx/",
 });
